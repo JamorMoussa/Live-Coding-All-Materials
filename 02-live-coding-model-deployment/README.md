@@ -119,3 +119,21 @@ In this exercise, we will containerize the Flask API you built in the previous e
     docker tag flask-api-app your-dockerhub-username/flask-api-app
     docker push your-dockerhub-username/flask-api-app
     ```
+
+### Save & Load Docker Images
+
+Save: 
+
+```
+sudo docker save -o flask-api-app.tar flask-api-app
+```
+
+Load: 
+
+```
+sudo docker load -i flask-api-app.tar
+```
+
+
+
+
