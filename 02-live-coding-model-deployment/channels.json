@@ -1,0 +1,56 @@
+[
+    {
+        "id": "karpathy",
+        "name": "Andrej Karpathy",
+        "tags": ["machine learning", "deep learning", "AI"],
+        "description": "Andrej Karpathy's channel offers in-depth tutorials on deep learning and AI, focusing on practical applications and theoretical foundations."
+    },
+    {
+        "id": "deeplearningai",
+        "name": "DeepLearningAI",
+        "tags": ["machine learning", "deep learning", "AI", "courses"],
+        "description": "DeepLearningAI, founded by Andrew Ng, provides comprehensive courses and tutorials on AI, deep learning, and machine learning, including the famous Coursera specializations."
+    },
+    {
+        "id": "dbourke",
+        "name": "Daniel Bourke",
+        "tags": ["machine learning", "deep learning", "python"],
+        "description": "Daniel Bourke's channel is great for beginners and intermediates, offering tutorials on machine learning, deep learning, and Python, with a focus on hands-on coding."
+    },
+    {
+        "id": "sentdex",
+        "name": "Sentdex",
+        "tags": ["machine learning", "python", "AI"],
+        "description": "Sentdex offers tutorials on Python programming, machine learning, and deep learning, with a focus on real-world applications and projects."
+    },
+    {
+        "id": "3blue1brown",
+        "name": "3Blue1Brown",
+        "tags": ["mathematics", "machine learning", "deep learning"],
+        "description": "3Blue1Brown provides visually engaging explanations of complex mathematical concepts, including machine learning and deep learning fundamentals."
+    },
+    {
+        "id": "edureka",
+        "name": "Edureka",
+        "tags": ["machine learning", "AI", "courses"],
+        "description": "Edureka offers a variety of tutorials and courses on AI, machine learning, and data science, with a focus on both theory and practical implementation."
+    },
+    {
+        "id": "statquest",
+        "name": "StatQuest with Josh Starmer",
+        "tags": ["statistics", "machine learning", "AI"],
+        "description": "StatQuest breaks down complex statistical and machine learning concepts into easy-to-understand explanations, perfect for learners at all levels."
+    },
+    {
+        "id": "deeplizard",
+        "name": "deeplizard",
+        "tags": ["machine learning", "deep learning", "python"],
+        "description": "deeplizard focuses on deep learning and neural networks, providing practical coding tutorials and theoretical insights."
+    },
+    {
+        "id": "krishnaik",
+        "name": "Krish Naik",
+        "tags": ["machine learning", "AI", "data science"],
+        "description": "Krish Naik's channel covers a wide range of topics in AI, machine learning, and data science, with tutorials, project walkthroughs, and industry insights."
+    }
+]
