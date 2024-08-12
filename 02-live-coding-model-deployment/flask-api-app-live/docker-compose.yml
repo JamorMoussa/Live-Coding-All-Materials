@@ -1,0 +1,7 @@
+
+
+services:
+  flask-api-app-live:
+    build: .
+    ports:
+      - "8080:5000"
